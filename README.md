@@ -1,34 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-# I'm known as Anand Darshan
-## M.Sc. Cyber Sec student
+# Hi there 👋  
+## I'm known as Anand Darshan  
+### M.Sc. Cyber Sec student  
+
+</div>
+
+---
+
 
 most of what i do is focused on understanding how systems actually work.
 
 ADHD PATIENT
 
-## :mag_right: My Blog
-- Redteamers.in -> https://blog.redteamers.in/
+
+---
+
+## 🔎 My Blog
+
+Redteamers.in -> https://blog.redteamers.in/
+
+
+---
 
 ## 🌱 current focus
 
-- CPTS path
-- self-hosting and infrastructure
+• CPTS path
+• self-hosting and infrastructure
 
+
+---
 
 ## 🔭 certifications
 
-- eJPT
-- ICCA
+• eJPT
+• ICCA
 
 
-## :satellite: projects
+---
 
-- on-prem mail server setup  ( in progress )
-- onl-prem web server
-- active directory lab  
+## 📡 projects
+
+• on-prem mail server setup ( in progress )
+• onl-prem web server
+• active directory lab
 
 more as i go.
+
+
+---
+
+<div align="center">
+
+
+still learning. still building.
+
+
+</div>
 
 
 <!--- 🔭 I’m currently working on ...
