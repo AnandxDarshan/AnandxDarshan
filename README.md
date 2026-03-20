@@ -16,7 +16,7 @@ ADHD PATIENT
 - self-hosting and infrastructure
 
 
-##🔭 certifications
+## 🔭 certifications
 
 - eJPT
 - ICCA
@@ -30,7 +30,6 @@ ADHD PATIENT
 
 more as i go.
 
-Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
