@@ -1,33 +1,28 @@
 ## Hi there 👋
 
-<!--
-**AnandxDarshan/AnandxDarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# darshan anand
-
-i'm learning cybersecurity and working through things step by step.
+# I'm known as Anand Darshan
+## M.Sc. Cyber Sec student
 
 most of what i do is focused on understanding how systems actually work.
 
 ADHD PATIENT
 
-## My Blog
+##:mag_right: My Blog
 - Redteamers.in -> https://blog.redteamers.in/
 
-## current focus
+##🌱 current focus
 
 - CPTS path
 - self-hosting and infrastructure
 
 
-🔭## certifications
+##🔭 certifications
 
 - eJPT
 - ICCA
 
-still learning, still figuring things out.
 
-
-## projects
+##:satellite: projects
 
 - on-prem mail server setup  ( in progress )
 - onl-prem web server
@@ -37,7 +32,7 @@ more as i go.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
