@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=header"/>
 
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm known as Anand Darshan</h3>
-<p align="center">M.Sc. Cyber Sec student</p>
+<h1>Hi there 👋</h1>
+<h3>I'm known as Anand Darshan</h3>
+<p>M.Sc. Cyber Sec student</p>
 
-<p align="center">
+<p>
 most of what i do is focused on understanding how systems actually work.
 </p>
 
-<p align="center"><b>ADHD PATIENT</b></p>
+<p><b>ADHD PATIENT</b></p>
 
 ---
 
@@ -38,7 +38,7 @@ most of what i do is focused on understanding how systems actually work.
 - onl-prem web server  
 - active directory lab  
 
-<p align="center"><i>more as i go.</i></p>
+<p><i>more as i go.</i></p>
 
 ---
 
