@@ -7,10 +7,10 @@ most of what i do is focused on understanding how systems actually work.
 
 ADHD PATIENT
 
-##:mag_right: My Blog
+## :mag_right: My Blog
 - Redteamers.in -> https://blog.redteamers.in/
 
-##🌱 current focus
+## 🌱 current focus
 
 - CPTS path
 - self-hosting and infrastructure
@@ -22,7 +22,7 @@ ADHD PATIENT
 - ICCA
 
 
-##:satellite: projects
+## :satellite: projects
 
 - on-prem mail server setup  ( in progress )
 - onl-prem web server
